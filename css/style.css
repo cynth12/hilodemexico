@@ -1559,6 +1559,10 @@ ul#cart-sidebar {
 	opacity: 1;
 	transform: scale(1.05);
 }
+
+.banner-block h2 {
+    margin-top: 10px;
+}
 .text-des-container {
 	bottom: 0;
 	height: 120px;
