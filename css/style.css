@@ -293,7 +293,7 @@ label {
 .newsletter-popup i {
 	padding: 10px;
 	font-size: 22px;
-	background-color: #00b9f5;
+	background-color: #663366;
 	color: #fff;
 	border-radius: 0px 0px 0px 3px;
 }
@@ -483,9 +483,9 @@ label {
 }
 /*4.2 header top */
 .header-top {
-	background: #494b58;
+	background: #663366;
 	width: 100%;
-	color: #999999;
+	color: #fff;
 	font-weight: 400;
 	padding-top: 8px;
 	padding-bottom: 4px;
@@ -634,15 +634,15 @@ label {
 	display: inline-block;
 	padding: 0px 0px 0px 8px;
 	text-decoration: none;
-	color: #999999;
+	color: #ccc;
 	font-weight: 400;
 }
 .headerlinkmenu ul.links a span {
-	border-left: 1px #535562 solid;
+	border-left: 1px #663366 solid;
 	padding-left: 10px;
 }
 .headerlinkmenu ul.links a:hover {
-	color: #00b9f5;
+	color: #fff;
 	text-decoration: none
 }
 /*4.4 Top Search */
@@ -817,12 +817,12 @@ select.cate-dropdown {
 	margin: 0px
 }
 .shipping-inner i {
-	border: 1px #00b9f5 solid;
+	border: 1px #cc99cc solid;
 	border-radius: 50px;
 	width: 40px;
 	height: 40px;
 	font-size: 20px;
-	color: #00b9f5;
+	color: #cc99cc;
 	text-align: center;
 	line-height: 38px;
 	margin-top: 0px;
@@ -958,13 +958,13 @@ select.cate-dropdown {
 	text-align: center;
 }
 .mini-cart .basket a {
-	color: #494b58;
+	color: #fff;
 	margin: 0px;
 	font-size: 12px;
 	font-weight: 600;
 	padding: 11px 14px;
 	display: inline-block;
-	background-color: #fcd21b;
+	background-color: #663366;
 }
 .mini-cart .basket a .cart-title {
 	font-size: 12px;
@@ -2838,7 +2838,6 @@ a.link {
 footer {
 	overflow: hidden;
 	color: #999;
-	background: url(../images/footer-bg.jpg) top center #494b58;
 	background-size: cover;
 	font-size: 13px;
 }
@@ -2934,8 +2933,8 @@ footer .footer-links ul li a:hover {
 	width: 80%;
 }
 .footer-newsletter {
-	background: #dae4fd;
-	padding: 50px 0px 50px;
+	background: #cc99cc;
+	padding: 0px 0px 0px;
 	text-align: center;
 	margin-bottom: 30px
 }
@@ -3061,7 +3060,7 @@ footer .footer-links ul li a:hover {
 }
 footer .footer-contact {
 	border-top: 1px solid #e8e8e8;
-	background: rgba(255,255,255,0.7);
+	background: rgba(211, 47, 250, 0.1);
 	margin-bottom: 50px;
 	color: #fff;
 }
@@ -3074,8 +3073,8 @@ footer .footer-contact-item .footer-contact-icon {
 	height: 60px;
 	line-height: 60px;
 	text-align: center;
-	border: 1px solid #e8e8e8;
-	color: #00b9f5;
+	border: 1px solid #663366;
+	color: #663366;
 	font-size: 30px;
 	display: inline-block;
 	margin-bottom: 15px;
@@ -3088,9 +3087,9 @@ footer .footer-contact-item .footer-contact-icon .fa-envelope:before {
 	line-height: 55px;
 }
 footer .footer-contact-item:hover .footer-contact-icon {
-	border: 1px solid #eee;
+	border: 1px solid #663366;
 	color: #fff;
-	background-color: #04ace2;
+	background-color: #663366;
 	border-radius: 50px;
 }
 footer .footer-contact-item a {
@@ -3118,7 +3117,7 @@ footer .footer-contact-item a:hover {
 }
 .footer-coppyright {
 	padding-bottom: 2px;
-	background-color: #3d3f4a;
+	background-color: #663366;
 	margin-top: 40px;
 }
 .coppyright {
@@ -3157,7 +3156,7 @@ nav {
 	margin: auto;
 	width: 100%;
 	background: #fff;
-	border-bottom: 3px solid #00b9f5;
+	border-bottom: 3px solid #cc99cc;
 }
 .jtv-sticky-menu {
 	position: fixed;
@@ -3843,7 +3842,7 @@ html {
 	cursor: pointer;
 	display: inline-block;
 	font-size: 28px;
-	background: #00b9f5;
+	background: #cc99cc;
 	width: 100%;
 }
 .navleft-container {
@@ -3864,7 +3863,7 @@ html {
 .mega-menu-title h3:after {
 	content: "\f039";
 	display: inline-block;
-	background: #00b9f5;
+	background: #cc99cc;
 	width: 50px;
 	height: 40px;
 	position: absolute;
@@ -3878,7 +3877,7 @@ html {
 	font-weight: normal;
 }
 .mega-menu-title:hover h3:after {
-	background: #00b9f5;
+	background: #cc99cc;
 }
 .mega-menu-category {
 	display: none;
