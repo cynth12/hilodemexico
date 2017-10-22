@@ -3062,7 +3062,7 @@ footer .footer-contact {
 	border-top: 1px solid #e8e8e8;
 	background: rgba(211, 47, 250, 0.1);
 	margin-bottom: 50px;
-	color: #fff;
+	color: #000000;
 }
 footer .footer-contact-item {
 	padding: 50px 0px;
@@ -3093,10 +3093,10 @@ footer .footer-contact-item:hover .footer-contact-icon {
 	border-radius: 50px;
 }
 footer .footer-contact-item a {
-	color: #fff;
+	color: #000000;
 }
 footer .footer-contact-item a:hover {
-	color: #04ace2;
+	color: #663366;
 }
 .payment {
 	margin-top: 10px;
