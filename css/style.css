@@ -102,7 +102,7 @@ a {
 }
 a:hover {
 	text-decoration: none;
-	color: #00b9f5
+	color: #663366
 }
 a:focus {
 	outline: 0;
@@ -531,7 +531,7 @@ label {
 	padding-left: 10px;
 }
 .language-currency-wrapper .block>div>span:hover {
-	color: #00b9f5
+	color: #cc99cc
 }
 .language-currency-wrapper .block>div img {
 	margin-top: -3px;
@@ -574,7 +574,7 @@ label {
 	margin-right: 6px
 }
 .language-currency-wrapper .block>ul li a:hover {
-	color: #00b9f5;
+	color: #cc99cc;
 	text-decoration: none
 }
 .language-currency-wrapper .block:hover>ul {
@@ -1164,7 +1164,7 @@ ul#cart-sidebar {
 	color: #fff;
 }
 .mini-cart .actions .view-cart {
-	background: #00b9f5;
+	background: #663366;
 	color: #fff;
 	font-size: 12px;
 	padding: 8px 16px;
@@ -1183,7 +1183,7 @@ ul#cart-sidebar {
 }
 .mini-cart .actions .view-cart:hover {
 	color: #494b58;
-	background-color: #fcd21b;
+	background-color: #cc99cc;
 }
 .mini-cart .actions .button {
 	display: inline-block;
@@ -2386,8 +2386,8 @@ a.link {
 }
 .product-item .item-inner .item-info .add-to-cart:hover, .product-item .item-inner:hover .item-info .add-to-cart {
 	color: #fff;
-	background-color: #00b9f5;
-	border: 1px #00b9f5 solid;
+	background-color: #cc99cc;
+	border: 1px #cc99cc solid;
 }
 .product-item .item-inner .item-info .add-to-cart span {
 	margin-left: 5px;
@@ -2765,10 +2765,10 @@ a.link {
 	font-weight: 400;
 	text-transform: uppercase;
 	font-size: 13px;
-	color: #00b9f5;
+	color: #cc99cc;
 }
 .blog-content-jtv .read-more:hover {
-	color: #00b9f5;
+	color: #663366;
 }
 .blog-content-jtv {
 	padding: 0px;
@@ -3276,7 +3276,7 @@ nav a:hover {
 	color: #262634;
 }
 .mtmegamenu a:hover .title.title_font span {
-	color: #00b9f5;
+	color: #663366;
 }
 .mtmegamenu .title_font span {
 	font-weight: 600;
@@ -3929,7 +3929,7 @@ html {
 }
 .mega-menu-category > .nav > li > a:hover, .mega-menu-category > .nav > li > a:focus, .mega-menu-category > .nav > li.active > a {
 	background-color: #f8f8f8;
-	color: #00b9f5;
+	color: #663366;
 }
 .wrap-popup {
 	position: absolute;
@@ -3990,7 +3990,7 @@ a.ads1 img {
 	margin-top: 0px;
 	font-family: FontAwesome;
 	font-size: 14px;
-	color: #00b9f5;
+	color: #663366;
 }
 .popup .nav li:hover {
 	padding-left: 12px;
@@ -4000,7 +4000,7 @@ a.ads1 img {
 	-o-transition: all 500ms ease 0ms;
 }
 .popup .nav > li > a:hover, .popup .nav > li > a:focus {
-	color: #34bcec;
+	color: #663366;
 	background-color: transparent;
 	transition: all 500ms ease 0ms;
 	-moz-transition: all 500ms ease 0ms;
@@ -4028,7 +4028,7 @@ a.ads1 img {
 	margin: 0;
 }
 .box-banner .price-sale {
-	color: #00b9f5;
+	color: #663366;
 	font-size: 36px;
 	line-height: 40px;
 	font-weight: 600;
@@ -4342,7 +4342,7 @@ button span {
 	padding: 8px 0px;
 	margin: auto;
 	font-size: 12px;
-	background-color: #00b9f5;
+	background-color: #663366;
 }
 .breadcrumbs a {
 	color: #eee;
@@ -4421,7 +4421,7 @@ button span {
 	font-family: 'Lato', sans-serif
 }
 .category-sidebar .product-categories li a:hover {
-	color: #1bbaaf
+	color: #663366
 }
 .category-sidebar .product-categories li.current-cat a {
 	font-weight: 700;
@@ -4436,7 +4436,7 @@ button span {
 	padding: 2px
 }
 .category-sidebar .product-categories li.current-cat ul li a:hover {
-	color: #1bbaaf
+	color: #663366
 }
 .category-sidebar .product-categories li ul li {
 	padding: 5px 0px 5px 10px;
@@ -7292,14 +7292,14 @@ label[for="rememberme"] {
 	padding-bottom: 0px;
 }
 .jtv-best-sale .products-grid .item .item-inner .item-info .info-inner .item-title a:hover {
-	color: #00b9f5;
+	color: #663366;
 	text-decoration: none;
 }
 .jtv-best-sale .products-grid .item:hover .item-inner .item-img .item-img-info {
 	border-color: #fff;
 }
 .jtv-best-sale .products-grid .item:hover .item-inner .item-info .info-inner .item-title a {
-	color: #00b9f5;
+	color: #663366;
 	text-decoration: none;
 }
 .jtv-best-sale .products-grid .item:hover .item-inner .item-info .info-inner .action button.button {
@@ -7780,8 +7780,8 @@ label[for="rememberme"] {
 }
 .item-inner .item-info .add-to-cart:hover {
 	color: #fff;
-	background-color: #00b9f5;
-	border: 1px #00b9f5 solid;
+	background-color: #cc99cc;
+	border: 1px #cc99cc solid;
 }
 .item-inner .item-info .add-to-cart span {
 	margin-left: 5px;
