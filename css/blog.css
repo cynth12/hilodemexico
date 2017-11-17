@@ -241,10 +241,10 @@ a.read-more {
 	line-height: inherit;
 }
 .blog-posts .post-item .entry-more a {
-	border: 1px solid #00b9f5;
+	border: 1px solid #663366;
 	color: #fff;
 	padding: 6px 15px;
-	background: #00b9f5;
+	background: #663366;
 	font-weight: 600;
 	font-size: 12px;
 	border-radius: 3px;
@@ -253,8 +253,8 @@ a.read-more {
 	margin-top: 15px;
 }
 .blog-posts .post-item .entry-more a:hover {
-	background: #0c3e92;
-	border: 1px solid #0c3e92;
+	background: #cc99cc;
+	border: 1px solid #cc99cc;
 	color: #fff;
 }
 .blog-posts .post-item .entry-thumb img {
