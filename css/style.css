@@ -349,7 +349,7 @@ label {
 	border: 1px solid #ddd;
 	height: 40px;
 	line-height: 40px;
-	margin: 0 0 5px;
+	margin: 0 0 25px;
 	padding-left: 15px;
 	width: 380px;
 	color: #333333;
@@ -2010,7 +2010,7 @@ a.link {
 	height: 3px;
 	bottom: -3px;
 	left: 0;
-	background-color: #00b9f5;
+	background-color: #663366;
 	visibility: hidden;
 	-webkit-transform: scaleX(0);
 	transform: scaleX(0);
@@ -2023,8 +2023,8 @@ a.link {
 	transform: scaleX(1);
 }
 .home-nav-tabs>li.active>a, .home-nav-tabs>li.active>a:hover, .home-nav-tabs>li.active>a:focus {
-	border: 0px solid #00b9f5;
-	border-bottom: 3px solid #00b9f5;
+	border: 0px solid #cc99cc;
+	border-bottom: 3px solid #cc99cc;
 	border-radius: 0px;
 	background: #fff;
 	color: #000;
@@ -2152,8 +2152,8 @@ a.link {
 	line-height: normal;
 	margin-top: 0px;
 	margin-left: 0px;
-	background: #00b9f5;
-	border: 1px solid #04ace2;
+	background: #cc99cc;
+	border: 1px solid #663366;
 	line-height: 10px;
 	border-radius: 0px;
 }
@@ -3193,7 +3193,7 @@ nav a {
 	color: #333333;
 }
 nav a:hover {
-	color: #00b9f5;
+	color: #cc99cc;
 }
 .mtmegamenu .menu-items {
 	opacity: 0;
@@ -3314,7 +3314,7 @@ nav a:hover {
 	padding: 15px;
 	height: auto;
 	border-bottom: 3px solid #ccc;
-	border-top: 5px solid #00b9f5;
+	border-top: 5px solid #cc99cc;
 	background: #fff;
 	-webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.176);
 	-moz-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.176);
@@ -4184,7 +4184,7 @@ a.ads1 img {
 	padding-right: 0px
 }
 .view-mode li.active a {
-	color: #00b9f5
+	color: #663366
 }
 .shop .product-des .color ul li {
 	border: 0 none;
